@@ -1,0 +1,12 @@
+{
+  "slug": "app-name-checker",
+  "name": "应用商店命名检查",
+  "version": "1.0.0",
+  "installedAt": 1792051870896,
+  "source": "skillhub",
+  "namespace": "user_1e3890b6",
+  "canonicalName": "@user_1e3890b6/app-name-checker",
+  "iconSource": "https://skillhub-1388575217.cos.accelerate.myqcloud.com/skill-icons/uploads/791538/efabc7649c394b12af313987860d4243.png",
+  "iconLocalPath": "C:\\Users\\NINGMEI\\.workbuddy\\skills\\app-name-checker__skillhub\\_icon.png",
+  "iconDownloadedFrom": "https://skillhub-1388575217.cos.accelerate.myqcloud.com/skill-icons/uploads/791538/efabc7649c394b12af313987860d4243.png"
+}
